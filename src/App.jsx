@@ -359,7 +359,7 @@ export default function Portfolio() {
               <p className="text-slate-200">+91 8178411197</p>
             </a>
 
-            <a href="https://linkedin.com/in/anshukumari" target="_blank" rel="noopener noreferrer" className="bg-slate-900/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-800 hover:border-cyan-500/50 transition-all duration-300 hover:scale-105">
+            <a href="https://www.linkedin.com/in/anshu-kumari-2109292a2/" target="_blank" rel="noopener noreferrer" className="bg-slate-900/50 backdrop-blur-sm p-6 rounded-2xl border border-slate-800 hover:border-cyan-500/50 transition-all duration-300 hover:scale-105">
               <Linkedin size={32} className="text-cyan-400 mx-auto mb-3" />
               <p className="text-slate-400 text-sm mb-2">LinkedIn</p>
               <p className="text-slate-200">Connect with me</p>
